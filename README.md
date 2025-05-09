@@ -23,7 +23,7 @@ Real-time sentiment detection: Detects the emotional tone behind customer review
 Tech Stack
 Back-end:
 Python
-Machine Learning models (Gradient Boosting Classifier , Random Forest, Decision Tree)
+Machine Learning models (Gradient Boosting Classifier , Random Forest Classifier, Decision Tree)
 Libraries: scikit-learn, pandas, numpy, etc.
 Front-end:
 Streamlit for creating an interactive user interface.
