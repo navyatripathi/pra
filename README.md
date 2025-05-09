@@ -1,5 +1,5 @@
 # product review analyzer(Sentimental analysis) 
-(scikitearn matplotlib numpy pandad wordcloud hyper parameter tuning) 
+(scikitearn matplotlib numpy pandad wordcloud hyper parameter tuning ) 
 
 Amazon Echo Sentiment Analysis Application
 This project is a Sentiment Analysis Application developed for analyzing customer reviews of Amazon Echo using machine learning models. The application classifies reviews into different sentiment categories by detecting the emotional tone behind them.
@@ -23,7 +23,7 @@ Real-time sentiment detection: Detects the emotional tone behind customer review
 Tech Stack
 Back-end:
 Python
-Machine Learning models (Gradient Boosting, Random Forest, Decision Tree)
+Machine Learning models (Gradient Boosting Classifier , Random Forest, Decision Tree)
 Libraries: scikit-learn, pandas, numpy, etc.
 Front-end:
 Streamlit for creating an interactive user interface.
